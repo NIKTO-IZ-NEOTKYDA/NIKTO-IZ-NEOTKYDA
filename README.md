@@ -19,9 +19,9 @@
 <p align="center">
   </br>
   
-  <a href="https://git.io/streak-stats">
-    <img src=https://streak-stats.demolab.com/?user=NIKTO-IZ-NIOTKYDA&&theme=tokyonight&&hide_border=true&card_width=495>
-  </a>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=NIKTO-IZ-NIOTKYDA&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png&hide_total_contributions=true" alt="GitHub Streak" />
+</a>
    
   </br>
   </br>
